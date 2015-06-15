@@ -4,7 +4,7 @@ class Dog
     @color, @type = color, type
     @bones        = []
   end
-
+# Doggies!!! <3 <3 <3 doggies :)
   def give(bone)
     # ensuring that the dog has less than three bones in order to accept a new
     # one
